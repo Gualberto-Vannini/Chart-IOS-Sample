@@ -14,6 +14,6 @@ steps used for the creation of the chart:
 2) Importing Chart.xcodeproj and adding Charts library into Embedded Binaries
 3) Creation of UIView with the lineChartView
 4) Setting up of chart, animation, style and baloon markers. 
-5) There aren't constrains, I was just focused on Chart IOS.
+5) There aren't constrains, I was just focused on Charts library.
 
 url CHARTS for IOS ==> https://github.com/danielgindi/Charts
