@@ -3,7 +3,7 @@
 Example of creation of simple mileage's chart months/miles.
 
 <p align="center">
-  <img src="https://github.com/Gualberto-Vannini/Chart-IOS-Sample/blob/master/sample_chart.gif?raw=true"/>
+  <img src="https://github.com/Gualberto-Vannini/Chart-IOS-Sample/blob/master/sample_chart.gif?raw=true" width="250px"/>
 </p>
 
 
